@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "nombre": "Arroz frito",
+    "precio": 15000,
+    "categoria": "Comida China"
+  },
+  {
+    "id": "2",
+    "nombre": "Pollo agridulce",
+    "precio": 13000,
+    "categoria": "Comida China"
+  },
+  {
+    "id": "3",
+    "nombre": "Rollitos primavera",
+    "precio": 11000,
+    "categoria": "Comida China"
+  },
+  {
+    "id": "4",
+    "nombre": "Cazuela",
+    "precio": 15000,
+    "categoria": "Comida Chilena"
+  },
+  {
+    "id": "5",
+    "nombre": "Anticuchos",
+    "precio": 13000,
+    "categoria": "Comida Chilena"
+  },
+  {
+    "id": "6",
+    "nombre": "Empanada",
+    "precio": 11000,
+    "categoria": "Comida Chilena"
+  },
+  {
+    "id": "7",
+    "nombre": "Pizza",
+    "precio": 15000,
+    "categoria": "Comida Italiana"
+  },
+  {
+    "id": "8",
+    "nombre": "Ceviche",
+    "precio": 15000,
+    "categoria": "Comida Peruana"
+  }
+]
